@@ -139,3 +139,21 @@ main{
 }
 
 /* /section color box */
+
+/* footer */
+footer{
+  border-top: 3px solid #f6f8f9;
+  text-align: center;
+}
+
+.email{
+  height: 20px;
+}
+
+.button-email{
+  color: white;
+  border: 1px solid #c2d6d6;
+  border-radius: 7px;
+  padding: 5px 10px;
+  background-color: #47adf1;
+}
